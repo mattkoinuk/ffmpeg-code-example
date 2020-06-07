@@ -1,12 +1,17 @@
-This repository is to store example code of ffmpeg.
+# Aim
+這個 repository 的 目的是記錄 ffmpeg 的語法例子。
+The aim of this repository is to store ffmpeg's code examples.
 
-ffmpeg.exe shall be downloaded from [FFmpeg](https://ffmpeg.org/download.html#build-windows).
+# pre-requisite
+- [ ] `ffmpeg.exe`. ffmpeg shall be downloaded from [FFmpeg](https://ffmpeg.org/download.html#build-windows).
+- [ ] A little bit Windows Command line knowledge.
 
-The code should be entered in windows CMD.
 
+# Examples
 **Q**: How to check current ffmpeg version? (如何查詢 ffmpeg 版本?)
-
-**A**: `ffmpeg -version`
+``` commandline
+> ffmpeg -version
+```
 
 **Q**: What is the basic syntax of ffmpeg? (ffmpeg 基本語法結構)
 
